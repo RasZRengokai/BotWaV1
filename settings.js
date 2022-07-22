@@ -32,7 +32,7 @@ global.fiturOff = '❎ Fitur Tidak Diaktifkan'
 global.fiturError = 'Fitur Sedang Error ❎'
 
 //===> BOT SETTINGS
-global.autobackup = true //Ganti Ke false Kalau Gamau Di Kirimin File Setiap Hari
+global.autobackup = false //Ganti Ke false Kalau Gamau Di Kirimin File Setiap Hari
 global.autoread = true //Ganti ke false kalau gamau smua chat di read sama bot
 global.autotyping = false //Ganti ke false kalau gamau auto mengetik kalau ada chat masuk ke wa bot
 global.available = true //Ganti ke true kalau pengen bot nya keliatan online terus
