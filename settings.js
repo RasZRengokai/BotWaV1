@@ -12,8 +12,8 @@ const chalk = require('chalk')
 global.zenzkey = 'Your_Apikey' //Register Atau Beli Di zenzapis.xyz
 
 //===> SESUAIKAN DENGAN KEBUTUHAN MU
-global.ownerNumber = ['6285609233482','6285609233482'] //Ganti Jadi Nomer mu Biar Fitur Ownernya Bisa Dipake
-global.Rowner = '6285609233482' //Owner Utama
+global.ownerNumber = ['6289652953331','6288220076996'] //Ganti Jadi Nomer mu Biar Fitur Ownernya Bisa Dipake
+global.Rowner = '6289652953331' //Owner Utama
 global.ownerName = 'LuoX' //Ganti Jadi Namamu
 global.packname = 'Rengokai BotZ' //Ganti Jadi Nama Botmu
 global.author = 'By LuoX' //Ganti Jadi Namamu
@@ -26,7 +26,7 @@ global.limitAwal = {
  prem: 'Unlimited',
  free: 70
 }
-global.multiplier = 69 // Semakin Tinggi Nilai nya Semakin Sulit Naik Level
+global.multiplier = 80 // Semakin Tinggi Nilai nya Semakin Sulit Naik Level
 global.limitEnd = 'Limit Kamu Telah Habis Silahkan Buy Di Shop Atau Tunggu Sampai Limit Reset'
 global.fiturOff = '❎ Fitur Tidak Diaktifkan'
 global.fiturError = 'Fitur Sedang Error ❎'
